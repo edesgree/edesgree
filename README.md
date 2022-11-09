@@ -34,6 +34,7 @@ I'm a front end developer currently looking for work.
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7532f9?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
   <img src="https://img.shields.io/badge/Foundation-7532f9?style=for-the-badge&logo=Foundation&logoColor=white" title="Foundation" alt="Foundation"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bulma-00d1b2?style=for-the-badge&logo=Bulma&logoColor=white" title="Bulma" alt="Bulma"/>&nbsp;
   <img src="https://img.shields.io/badge/jinja-beige?style=for-the-badge&logo=jinja&logoColor=black" title="jinja" alt="jinja"/>&nbsp;
   <img src="https://img.shields.io/badge/twig-green?style=for-the-badge&logo=twig&logoColor=white" title="twig" alt="twig"/>&nbsp;
   <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000" title="flask" alt="flask"/>&nbsp;
