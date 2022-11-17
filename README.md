@@ -39,6 +39,9 @@ I'm a front end developer currently looking for work.
   <img src="https://img.shields.io/badge/twig-green?style=for-the-badge&logo=twig&logoColor=white" title="twig" alt="twig"/>&nbsp;
   <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000" title="flask" alt="flask"/>&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm"/>&nbsp;
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white" title="webpack" alt="webpack"/>&nbsp;
+  <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" title="gulp" alt="gulp"/>&nbsp;
+  <img src="https://img.shields.io/badge/Grunt-orange.svg?style=for-the-badge&logo=grunt&logoColor=white" title="grunt" alt="grunt"/>&nbsp;
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  title="GitHub" alt="GitHub"/>&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode"/>&nbsp;
