@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a front end developer currently looking for work.
+
+I'm a front end developer with a background in UX/UI currently looking for work.
 
 ⬇️ Check my learning projects pinned below.
 
@@ -32,6 +33,7 @@ I'm a front end developer currently looking for work.
   <img src="https://img.shields.io/badge/less-1d365d?style=for-the-badge&logo=less&logoColor=white" title="Less" alt="Less"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61dafb" title="React" alt="React"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7532f9?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
   <img src="https://img.shields.io/badge/Foundation-7532f9?style=for-the-badge&logo=Foundation&logoColor=white" title="Foundation" alt="Foundation"/>&nbsp;
   <img src="https://img.shields.io/badge/Bulma-00d1b2?style=for-the-badge&logo=Bulma&logoColor=white" title="Bulma" alt="Bulma"/>&nbsp;
@@ -39,6 +41,7 @@ I'm a front end developer currently looking for work.
   <img src="https://img.shields.io/badge/twig-green?style=for-the-badge&logo=twig&logoColor=white" title="twig" alt="twig"/>&nbsp;
   <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000" title="flask" alt="flask"/>&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="npm" alt="npm"/>&nbsp;
+  <img src="https://img.shields.io/badge/vite-906DFE?style=for-the-badge&logo=vite&logoColor=FFCB23" title="vite" alt="vite"/>&nbsp;
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white" title="webpack" alt="webpack"/>&nbsp;
   <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" title="gulp" alt="gulp"/>&nbsp;
   <img src="https://img.shields.io/badge/Grunt-orange.svg?style=for-the-badge&logo=grunt&logoColor=white" title="grunt" alt="grunt"/>&nbsp;
