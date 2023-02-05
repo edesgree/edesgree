@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a front end developer with a background in UX/UI currently looking for work.
 
-⬇️ Check my learning projects pinned below.
+⬇️ Check some of my projects pinned below.
 
 💬 If you are interested, I would be glad to have a chat.
 
