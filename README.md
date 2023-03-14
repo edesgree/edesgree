@@ -23,6 +23,7 @@ I'm a front end developer with a background in UI/UX currently looking for work.
 
 - Mail: edouard.desgree@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/edouarddesgree/" target=_blank>/in/edouarddesgree</a>
+- Portfolio : [edouard.desgree.com](https://edouard.desgree.com)
 
 ### 🧰 Languages and Tools
 
