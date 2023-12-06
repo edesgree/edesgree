@@ -34,6 +34,7 @@ I'm a front end developer with a background in UI/UX currently looking for work.
   <img src="https://img.shields.io/badge/less-1d365d?style=for-the-badge&logo=less&logoColor=white" title="Less" alt="Less"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/VUE.JS-20232A?style=for-the-badge&logo=vuedotjs&logoColor=44E192" title="VueJS" alt="VueJS"/>&nbsp;
   <img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61dafb" title="React" alt="React"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7532f9?style=for-the-badge&logo=Bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap"/>&nbsp;
   <img src="https://img.shields.io/badge/Foundation-7532f9?style=for-the-badge&logo=Foundation&logoColor=white" title="Foundation" alt="Foundation"/>&nbsp;
@@ -53,6 +54,7 @@ I'm a front end developer with a background in UI/UX currently looking for work.
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" alt="ESLint"/>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" title="Prietter" alt="Prietter"/>&nbsp;
   <img src="https://img.shields.io/badge/python-366c9a?style=for-the-badge&logo=python&logoColor=f2c83f" title="python" alt="python"/>&nbsp;
+  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" title="symfony" alt="symfony"/>&nbsp;
   <img src="https://img.shields.io/badge/php-7175aa?style=for-the-badge&logo=php&logoColor=white" title="php" alt="php"/>&nbsp;
 </div>
 
@@ -61,6 +63,7 @@ I'm a front end developer with a background in UI/UX currently looking for work.
 <div>
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title="Adobe Photoshop" alt="Adobe Photoshop"/>&nbsp;
   <img src="https://img.shields.io/badge/figma-ffffff.svg?style=for-the-badge&logo=figma&logoColor=ea4c1d" title="Figma" alt="Figma"/>&nbsp;
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" title="XD" alt="XD"/>&nbsp;
   <img src="https://img.shields.io/badge/sketch-ffffff?style=for-the-badge&logo=sketch&logoColor=f1a501" title="sketch" alt="sketch"/>&nbsp;
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" title="WordPress" alt="WordPress"/>&nbsp;
   <img src="https://img.shields.io/badge/Magento-white?style=for-the-badge&logo=magento" title="Magento" alt="Magento"/>&nbsp;
